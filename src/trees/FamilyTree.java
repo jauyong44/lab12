@@ -54,7 +54,7 @@ public class FamilyTree
             	// If child.getNodeWithName(targetName) returns a non-null node,
                 // then that's the node we're looking for. Return it.
             }
-            //bruh
+            
             // Not found anywhere.
             return null;
         }
